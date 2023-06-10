@@ -16,7 +16,8 @@ setup(
         'python-dotenv',
         'appdirs',
         'xmpppy',
-        'lxml'
+        'lxml',
+        'flask'
     ],
     entry_points='''
         [console_scripts]
